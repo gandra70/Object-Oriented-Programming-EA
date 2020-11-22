@@ -5,8 +5,7 @@ This Robot has similar classes with two different price action strategies, inclu
 
 Support
 
-If you have any problems or questions, contact me on drenjanindragan@gmail.com
-
+If you have any problems or questions, contact me on https://www.mql5.com/en/users/drgandra
 Terms of Use
 
 By using Object-Oriented-Programming-EA you understand and agree that the author is not liable or responsible for any loss or damage due to any reason. Although every attempt has been made to assure accuracy, I don't give any express or implied warranty as to its accuracy. I don't accept any liability for error or omission. You acknowledge that you are familiar with these risks and that you are solely responsible for the outcomes of your decisions. I don't accept any liability whatsoever for any direct or consequential loss arising from the use of this product. You understand and agree that past results are not necessarily indicative of future performance. Use of Object-Oriented-Programming-EA trading robot serves as your acknowledgment and representation that you have read and understood these TERMS OF USE and that you agree to be bound by such Terms of Use.
